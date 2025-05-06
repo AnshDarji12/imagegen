@@ -21,6 +21,12 @@ dependencies:
   font_awesome_flutter: ^10.7.0
   glassmorphism: ^3.0.0
   flutter_staggered_animations: ^1.1.1
+  # Add these new dependencies
+  http: ^1.1.0
+  image_gallery_saver: ^2.0.3
+  permission_handler: ^11.0.1
+  path_provider: ^2.1.1
+  share_plus: ^7.2.1
 
 dev_dependencies:
   flutter_test:
